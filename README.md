@@ -17,3 +17,7 @@ The **E-commerce Sales Dashboard** project provides a detailed analysis of sales
 - **E-commerce Platform Data**: Used as the primary data source for analysis.
 - **Microsoft Excel/SQL** (optional): For data preprocessing before importing into Power BI.
 
+## Author
+This project was carried out by **D.Divyaprasanthi**.
+
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/divyaprasanthi-devavarapu-968bb522b/) for feedback, suggestions, or collaboration opportunities.
